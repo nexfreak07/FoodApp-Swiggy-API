@@ -7,7 +7,7 @@ export const Header = () => {
 
   const status = useContext(OnlineContext);
     return (
-      <div className="flex justify-between items-center h-20 bg-pink-100 shadow-lg sticky top-0 z-30">
+      <div className="flex justify-between items-center h-30 bg-pink-100 shadow-lg sticky top-0 z-30">
         <div className="logo-container">
           <img
             src={LOGO_URL}

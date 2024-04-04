@@ -5,7 +5,7 @@ export const RestaurantCard = ({restaurant}) => {
   
     const {name, cuisines, avgRating, costForTwo, cloudinaryImageId, sla} = restaurant?.info;
     return (
-      <div className="m-4 p-4 w-[280px] h-[460px] bg-gray-200 rounded-lg hover:bg-gray-900 hover:text-white  transition-transform duration-300 transform-gpu hover:scale-110" >
+      <div className="m-4 p-4 w-[280px] h-[480px] bg-gray-200 rounded-lg hover:bg-gray-900 hover:text-white  transition-transform duration-300 transform-gpu hover:scale-110" >
         <img
           src={CART_URL + cloudinaryImageId}
           alt="restaurant"

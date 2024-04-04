@@ -3,6 +3,7 @@ import { API, resObj } from "../utils/constants";
 import { useEffect, useState } from "react";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
+import { useOnline } from "../hooks/useOnline";
 export const Body = () => {
 
 
@@ -14,6 +15,9 @@ export const Body = () => {
         fetchData();
     },[])
 
+
+    const status = useOnline();
+
     const fetchData = async () => {
         const data = await fetch(API);
         const json = await data.json();
@@ -23,9 +27,15 @@ export const Body = () => {
 
     // Conditional Rendering
 
+    if(!status){
+        return <h1 className="flex justify-center font-bold items-center" style={{fontSize: "50px", height: "100vh"}} >Looks like you are offline 💀.....Check your connection</h1>
+    }
+
     if(listRestaurants.length  === 0){
         return <Shimmer/>     
     }
+
+
 
     return (
       <div className="body">
