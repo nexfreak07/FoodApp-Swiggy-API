@@ -1,22 +1,25 @@
-import React from "react";
+import React, { lazy, Suspense } from "react";
 import ReactDom from "react-dom/client";
 import { Header } from "./components/Header";
 import { Body } from "./components/Body";
-import { About } from "./components/About";
 import { RouterProvider, createBrowserRouter, Outlet } from "react-router-dom";
 import Error from "./components/Error";
 import Contact from "./components/Contact";
 import { RestaurantMenu } from "./components/RestaurantMenu";
 // import { Provider } from "react-redux";
 // import { appStore } from "./utils/appStore";
+import { OnlineProvider } from "./context/onlineContext";
+const About = lazy(() => import("./components/About"));
 
 const AppLayout = () => {
   return (
-  
-      <div className="app">
+    <div className="app">
+      <OnlineProvider>
         <Header />
-        <Outlet />
-      </div>
+      </OnlineProvider>
+
+      <Outlet />
+    </div>
   );
 };
 
@@ -32,7 +35,11 @@ const appRouter = createBrowserRouter([
       },
       {
         path: "/about",
-        element: <About />,
+        element: (
+          <Suspense fallback={<h1>Loading...</h1>}>
+            <About />
+          </Suspense>
+        ),
       },
       {
         path: "/contact",
