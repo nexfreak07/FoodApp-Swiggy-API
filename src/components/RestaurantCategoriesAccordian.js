@@ -18,7 +18,7 @@ export const RestaurantCategoriesAccordian = ({ data, setShowIndex , show}) => {
         <span>⬇</span>
        </div>
 
-       {show && <ItemListAccordionBody items={itemCards}/>}
+       {show && <ItemListAccordionBody items={itemCards} cart={false}/>}
       </div>
     </div>
   );

@@ -24,6 +24,8 @@ export const RestaurantMenu = () => {
         
     }
 
+   
+
     if (!resInfo || !resInfo.cards || resInfo.cards.length === 0) {
         return <Shimmer/>
       }
@@ -45,7 +47,7 @@ export const RestaurantMenu = () => {
       <p className="font-bold text-lg"> {cuisines.join(", ")}</p>
 
         {/* Controlled Component */}
-      {categories.map((category, index)=> <RestaurantCategoriesAccordian  key={category.card.card.title}  data={category.card.card} show={ index === showIndex ? true : false} setShowIndex={()=> setShowIndex(index)}/>)}
+      {categories.map((category, index)=> <RestaurantCategoriesAccordian  key={category.card.card.title}  data={category.card.card} show={ index === showIndex ? true : false} setShowIndex={()=> setShowIndex(index)} />)}
     </div>
   );
 };

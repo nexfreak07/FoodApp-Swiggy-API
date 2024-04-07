@@ -10,10 +10,13 @@ export const cartSlice = createSlice({
             state.items.push(action.payload)
         },
         removeItem: (state, action) => {
-            state.items.pop();
+            state.items = state.items.filter( item => item.id!==action.payload.id)
+            // Now If we want to console.log(state) - > Gives proxy object -> So we Do - > console.log(current(state))
         },
         clearItem: (state, action) => {
-            state.items.length = 0
+
+            // If we make state=[] this actually modifies the local variable hence we need to modify globel we do the below stuff
+            state.items.length = 0 // Or we can do return [] - RTK says either mutate state or return new state
         }
 
     }

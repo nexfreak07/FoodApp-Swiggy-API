@@ -21,7 +21,8 @@ export const Body = () => {
     const fetchData = async () => {
         const data = await fetch(API);
         const json = await data.json();
-        setListRestaurants(json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants)
+        setListRestaurants(json?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants)
+        console.log(json)
     }
 
 
@@ -30,6 +31,8 @@ export const Body = () => {
     if(!status){
         return <h1 className="flex justify-center font-bold items-center" style={{fontSize: "50px", height: "100vh"}} >Looks like you are offline 💀.....Check your connection</h1>
     }
+
+   
 
     if(listRestaurants.length  === 0){
         return <Shimmer/>     
