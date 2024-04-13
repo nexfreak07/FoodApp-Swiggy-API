@@ -1,0 +1,98 @@
+{
+    "info": {
+        "id": "436610",
+        "name": "Irani Cafe",
+        "cloudinaryImageId": "j6tpkqusf0qif07zvdth",
+        "locality": "Nucleus Mall",
+        "areaName": "Camp Area",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+            "Bakery",
+            "Snacks",
+            "Desserts",
+            "Fast Food",
+            "Beverages",
+            "Indian",
+            "Street Food"
+        ],
+        "avgRating": 4.6,
+        "parentId": "4057",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "1K+",
+        "sla": {
+            "deliveryTime": 24,
+            "lastMileTravel": 2.6,
+            "serviceability": "SERVICEABLE",
+            "slaString": "20-25 mins",
+            "lastMileTravelString": "2.6 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-04-11 05:00:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png",
+                    "description": "Delivery!"
+                },
+                {
+                    "imageId": "Rxawards/_CATEGORY-Snacks.png",
+                    "description": "Delivery!"
+                }
+            ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "Delivery!",
+                                "imageId": "Rxawards/_CATEGORY-Cafe%20&%20Chai.png"
+                            }
+                        },
+                        {
+                            "attributes": {
+                                "description": "Delivery!",
+                                "imageId": "Rxawards/_CATEGORY-Snacks.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-29b0e66b-2561-4af9-a5cf-c778c03f21d3"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/irani-cafe-nucleus-mall-camp-area-pune-436610",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}

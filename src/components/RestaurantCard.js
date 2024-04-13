@@ -2,10 +2,13 @@ import { CART_URL } from "../utils/constants";
 import Skeleton from 'react-loading-skeleton'
 
 export const RestaurantCard = ({restaurant}) => {
+
+  console.log(restaurant)
   
     const {name, cuisines, avgRating, costForTwo, cloudinaryImageId, sla} = restaurant?.info;
+
     return (
-      <div className="m-4 p-4 w-[280px] h-[480px] bg-gray-200 rounded-lg hover:bg-gray-900 hover:text-white  transition-transform duration-300 transform-gpu hover:scale-110" >
+      <div className="m-4 p-4 w-[280px] h-[480px] bg-gray-200 rounded-lg hover:bg-gray-900 hover:text-white  transition-transform duration-300 transform-gpu hover:scale-110" data-testid="resCard">
         <img
           src={CART_URL + cloudinaryImageId}
           alt="restaurant"

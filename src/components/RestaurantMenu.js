@@ -6,7 +6,7 @@ import { RestaurantCategoriesAccordian } from "./RestaurantCategoriesAccordian";
 export const RestaurantMenu = () => {
 
     const {resId} = useParams();
-    const [showIndex, setShowIndex] =  useState(0);
+    const [showIndex, setShowIndex] =  useState(false);
 
     const [resInfo, setResInfo] = useState(null);
     useEffect(()=>{
@@ -20,8 +20,6 @@ export const RestaurantMenu = () => {
         const data = await fetch(MENU_API+resId);
         const json = await data.json();       
         setResInfo(json?.data)
-
-        
     }
 
    

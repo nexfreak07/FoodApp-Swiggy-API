@@ -1,0 +1,3910 @@
+[
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "131312488",
+                "name": "Dessert Jars Pack of 6",
+                "category": "Gift Hamper",
+                "imageId": "f76a6b2d943e9538f9e679ef8509946f",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 69900,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "131312489",
+                "name": "Dessert Jars Pack of 4",
+                "category": "Gift Hamper",
+                "imageId": "ec9a24f58e97f3e98bea408da7419a29",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 44900,
+                "variants": {},
+                "variantsV2": {},
+                "itemAttribute": {
+                    "vegClassifier": "VEG"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "51524243",
+                "name": "Chicken Tikka Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | Chicken marinated with a blend of spices and grilled till succulent & tender is filled in a freshly rolled out warm paratha along with crisp veggies to make this delicious street food snack.",
+                "imageId": "ee3bbf2604b66af6fa9105379e3a4336",
+                "inStock": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367156",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 229,
+                                    "default": 1,
+                                    "id": "89458154",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 249,
+                                    "id": "89458155",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367156",
+                                    "variationId": "89458154"
+                                }
+                            ],
+                            "price": 22900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92826996",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92826996",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92826996",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92826996",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92826994",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92826994",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92826994",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367156",
+                                    "variationId": "89458155"
+                                }
+                            ],
+                            "price": 24900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92826996",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92826996",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92826996",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92826996",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92826995",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92826994",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92826994",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92826994",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92826994",
+                        "groupName": "Rolls Add On",
+                        "choices": [
+                            {
+                                "id": "89779055",
+                                "name": "Egg",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779056",
+                                "name": "Double Egg",
+                                "price": 3000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779057",
+                                "name": "Extra Filling",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 3,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92826995",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92826996",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 22900,
+                "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                },
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "isBestseller": true,
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "3.3",
+                        "ratingCount": "74 ratings",
+                        "ratingCountV2": "74"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "52009598",
+                "name": "Batata Vada Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | The iconic Mumbai street food gets a healthy twist! This unique & delicious roll is packed with soft Batata Vada and fresh veggies. A hint of mint sauce & this roll will take you back in time! (490 Calories)",
+                "imageId": "qgn7stvwdf9iikbzyxzm",
+                "inStock": 1,
+                "isVeg": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367161",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 155,
+                                    "default": 1,
+                                    "id": "89458176",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 175,
+                                    "id": "89458177",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367161",
+                                    "variationId": "89458176"
+                                }
+                            ],
+                            "price": 15500,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827008",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827008",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827008",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827008",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827006",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827006",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827006",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367161",
+                                    "variationId": "89458177"
+                                }
+                            ],
+                            "price": 17500,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827008",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827008",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827008",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827008",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827007",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827006",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827006",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827006",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92827006",
+                        "groupName": "Rolls Add On",
+                        "choices": [
+                            {
+                                "id": "89779055",
+                                "name": "Egg",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779056",
+                                "name": "Double Egg",
+                                "price": 3000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779057",
+                                "name": "Extra Filling",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 3,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827007",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827008",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 15500,
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "3.9",
+                        "ratingCount": "32 ratings",
+                        "ratingCountV2": "32"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "51589818",
+                "name": "Bhuna Chicken Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | Chicken tossed in a spicy mix & cooked in its own juices until it is perfectly dry yet full of flavour. This delicous chicken is tied together in a freshly rolled out paratha with our in house sauce. (440 Calories)",
+                "imageId": "g8kryv1cegwu9tgsvdiv",
+                "inStock": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367167",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 209,
+                                    "default": 1,
+                                    "id": "89458196",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 229,
+                                    "id": "89458197",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367167",
+                                    "variationId": "89458196"
+                                }
+                            ],
+                            "price": 20900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827039",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827039",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827039",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827039",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827037",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827037",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827037",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367167",
+                                    "variationId": "89458197"
+                                }
+                            ],
+                            "price": 22900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827039",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827039",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827039",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827039",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827038",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827037",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827037",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827037",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92827037",
+                        "groupName": "Rolls Add On",
+                        "choices": [
+                            {
+                                "id": "89779055",
+                                "name": "Egg",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779056",
+                                "name": "Double Egg",
+                                "price": 3000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779057",
+                                "name": "Extra Filling",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 3,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827038",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827039",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 20900,
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "2.8",
+                        "ratingCount": "71 ratings",
+                        "ratingCountV2": "71"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "51524242",
+                "name": "Chicken Shami Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | The amazing Shami Kebabs now inside a paratha! These soft kebabs are a blend of chicken mince & lentils cooked to perfection. The crisp soft kebabs are wrapped in a delicious paratha with mint sauce. (530 Calories)",
+                "imageId": "inocs78owjbrtwztwlep",
+                "inStock": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367177",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 199,
+                                    "default": 1,
+                                    "id": "89458234",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 219,
+                                    "id": "89458235",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367177",
+                                    "variationId": "89458234"
+                                }
+                            ],
+                            "price": 19900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827081",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827081",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827081",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827081",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827079",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827079",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827079",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367177",
+                                    "variationId": "89458235"
+                                }
+                            ],
+                            "price": 21900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827081",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827081",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827081",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827081",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827080",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827079",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827079",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827079",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92827079",
+                        "groupName": "Rolls Add On",
+                        "choices": [
+                            {
+                                "id": "89779055",
+                                "name": "Egg",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779056",
+                                "name": "Double Egg",
+                                "price": 3000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779057",
+                                "name": "Extra Filling",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 3,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827080",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827081",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 19900,
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "3.5",
+                        "ratingCount": "68 ratings",
+                        "ratingCountV2": "68"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "56235253",
+                "name": "Chilli Paneer Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | Just the right flavour of spicy chilli paneer - a juicy Kaati roll with freshly chopped veggies & soft paneer tossed & cooked in the right spices. (440 Calories)",
+                "imageId": "pndx5ht7aclo0ijwlnuy",
+                "inStock": 1,
+                "isVeg": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367188",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 199,
+                                    "default": 1,
+                                    "id": "89458273",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 219,
+                                    "id": "89458274",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367188",
+                                    "variationId": "89458273"
+                                }
+                            ],
+                            "price": 19900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827127",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827127",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827127",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827127",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827124",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827124",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827124",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367188",
+                                    "variationId": "89458274"
+                                }
+                            ],
+                            "price": 21900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827127",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827127",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827127",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827127",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827125",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827124",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827124",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827124",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92827124",
+                        "groupName": "Rolls Add On",
+                        "choices": [
+                            {
+                                "id": "89779055",
+                                "name": "Egg",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779056",
+                                "name": "Double Egg",
+                                "price": 3000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779057",
+                                "name": "Extra Filling",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 3,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827125",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827127",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 19900,
+                "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                },
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "isBestseller": true,
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.0",
+                        "ratingCount": "38 ratings",
+                        "ratingCountV2": "38"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "51524244",
+                "name": "Egg and Cheese Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | When soulmates Egg & Cheese come together inside a roll, it?s a match made in heaven! Combined with freshly chopped greens and a delicious sauce, this classic Kaati roll is perfect for a dinner! (500 Calories)",
+                "imageId": "p47i9lhaypg2ltgl7h3y",
+                "inStock": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367192",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 189,
+                                    "default": 1,
+                                    "id": "89458284",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 209,
+                                    "id": "89458285",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367192",
+                                    "variationId": "89458284"
+                                }
+                            ],
+                            "price": 18900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827150",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827150",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827150",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827150",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779039"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367192",
+                                    "variationId": "89458285"
+                                }
+                            ],
+                            "price": 20900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827150",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827150",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827150",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827150",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827149",
+                                    "addonId": "89779039"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92827149",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827150",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 18900,
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "37 ratings",
+                        "ratingCountV2": "37"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "52009617",
+                "name": "Mixed Veg Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | A light roll high on the goodness of veggies. Assorted vegetables, sourced locally are spiced & rolled into the paratha along with our delicious mint sauce. This is health in a paratha! (420 Calories)",
+                "imageId": "wq8lb5cereecmrz14ug2",
+                "inStock": 1,
+                "isVeg": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367196",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 169,
+                                    "default": 1,
+                                    "id": "89458298",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 189,
+                                    "id": "89458299",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367196",
+                                    "variationId": "89458298"
+                                }
+                            ],
+                            "price": 16900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827175",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827175",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827175",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827175",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827172",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827172",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827172",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367196",
+                                    "variationId": "89458299"
+                                }
+                            ],
+                            "price": 18900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827175",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827175",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827175",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827175",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827173",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827172",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827172",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827172",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92827172",
+                        "groupName": "Rolls Add On",
+                        "choices": [
+                            {
+                                "id": "89779055",
+                                "name": "Egg",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779056",
+                                "name": "Double Egg",
+                                "price": 3000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779057",
+                                "name": "Extra Filling",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 3,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827173",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827175",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 16900,
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "2.4",
+                        "ratingCount": "13 ratings",
+                        "ratingCountV2": "13"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "52009624",
+                "name": "Paneer Tikka Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | A delicious and satisfying meal by itself that can be enjoyed as a quick lunch or snack. Perfectly marinated and grilled paneer is wrapped in a paratha along with fresh veggies and served with chutney",
+                "imageId": "420bcc4ce276414ec83dfd5326e4f8b9",
+                "inStock": 1,
+                "isVeg": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367197",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 229,
+                                    "default": 1,
+                                    "id": "89458300",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 249,
+                                    "id": "89458301",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367197",
+                                    "variationId": "89458300"
+                                }
+                            ],
+                            "price": 22900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827194",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827194",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827194",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827194",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827190",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827190",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827190",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367197",
+                                    "variationId": "89458301"
+                                }
+                            ],
+                            "price": 24900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827194",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827194",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827194",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827194",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827192",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827190",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827190",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827190",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92827190",
+                        "groupName": "Rolls Add On",
+                        "choices": [
+                            {
+                                "id": "89779055",
+                                "name": "Egg",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779056",
+                                "name": "Double Egg",
+                                "price": 3000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779057",
+                                "name": "Extra Filling",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 3,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827192",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827194",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 22900,
+                "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                },
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "isBestseller": true,
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "4.1",
+                        "ratingCount": "55 ratings",
+                        "ratingCountV2": "55"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "56235254",
+                "name": "Schezwan Chicken Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | The hot taste of Schezwan & the earthy flavour of a cold brew is a match made in heaven! Kaati roll that has tender Schezwan chicken with slices of fresh onion and capsicum inside a healthy paratha. (430 Calories)",
+                "imageId": "xtf9ygcjso5tqqv51chj",
+                "inStock": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367200",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 209,
+                                    "default": 1,
+                                    "id": "89458306",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 229,
+                                    "id": "89458307",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367200",
+                                    "variationId": "89458306"
+                                }
+                            ],
+                            "price": 20900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827224",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827224",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827224",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827224",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827220",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827220",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827220",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367200",
+                                    "variationId": "89458307"
+                                }
+                            ],
+                            "price": 22900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827224",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827224",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827224",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827224",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827222",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827220",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827220",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827220",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92827220",
+                        "groupName": "Rolls Add On",
+                        "choices": [
+                            {
+                                "id": "89779055",
+                                "name": "Egg",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779056",
+                                "name": "Double Egg",
+                                "price": 3000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779057",
+                                "name": "Extra Filling",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 3,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827222",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827224",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 20900,
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "1.5",
+                        "ratingCount": "27 ratings",
+                        "ratingCountV2": "27"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "62880363",
+                "name": "Veg Finger Roll",
+                "category": "Kaati Rolls",
+                "description": "Serves 1 | A light roll high on the goodness of crunchy veggies. Assorted vegetables, sourced locally are spiced & rolled into the paratha along with our delicious mint sauce. This is health in a paratha! (480 Calories)",
+                "imageId": "sjdw6p9lfjtfmy0jceod",
+                "inStock": 1,
+                "isVeg": 1,
+                "variants": {},
+                "variantsV2": {
+                    "variantGroups": [
+                        {
+                            "groupId": "28367202",
+                            "name": "Choice Of Bread",
+                            "variations": [
+                                {
+                                    "name": "Lacchha Paratha",
+                                    "price": 169,
+                                    "default": 1,
+                                    "id": "89458310",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "name": "Whole Wheat Paratha",
+                                    "price": 189,
+                                    "id": "89458311",
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "pricingModels": [
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367202",
+                                    "variationId": "89458310"
+                                }
+                            ],
+                            "price": 16900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827243",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827243",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827243",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827243",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827241",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827241",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827241",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        },
+                        {
+                            "variations": [
+                                {
+                                    "groupId": "28367202",
+                                    "variationId": "89458311"
+                                }
+                            ],
+                            "price": 18900,
+                            "addonCombinations": [
+                                {
+                                    "groupId": "92827243",
+                                    "addonId": "89779040"
+                                },
+                                {
+                                    "groupId": "92827243",
+                                    "addonId": "89779041"
+                                },
+                                {
+                                    "groupId": "92827243",
+                                    "addonId": "89779042"
+                                },
+                                {
+                                    "groupId": "92827243",
+                                    "addonId": "89779043"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779035"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779036"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779037"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779038"
+                                },
+                                {
+                                    "groupId": "92827242",
+                                    "addonId": "89779039"
+                                },
+                                {
+                                    "groupId": "92827241",
+                                    "addonId": "89779055"
+                                },
+                                {
+                                    "groupId": "92827241",
+                                    "addonId": "89779056"
+                                },
+                                {
+                                    "groupId": "92827241",
+                                    "addonId": "89779057"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "addons": [
+                    {
+                        "groupId": "92827241",
+                        "groupName": "Rolls Add On",
+                        "choices": [
+                            {
+                                "id": "89779055",
+                                "name": "Egg",
+                                "price": 2000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779056",
+                                "name": "Double Egg",
+                                "price": 3000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779057",
+                                "name": "Extra Filling",
+                                "price": 5000,
+                                "inStock": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 3,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827242",
+                        "groupName": "Make It A Meal",
+                        "choices": [
+                            {
+                                "id": "89779035",
+                                "name": "French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779036",
+                                "name": "Peri Peri French Fries",
+                                "price": 10900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779037",
+                                "name": "Pepsi",
+                                "price": 6000,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779038",
+                                "name": "Choco Lava Cake",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779039",
+                                "name": "Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 5,
+                        "maxFreeAddons": -1
+                    },
+                    {
+                        "groupId": "92827243",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "defaultPrice": 16900,
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "2.6",
+                        "ratingCount": "8 ratings",
+                        "ratingCountV2": "8"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "52009596",
+                "name": "Batata Vada Roll Combo",
+                "category": "Kaati Zone Combo",
+                "description": "Serves 1 | A delicious combo of one Batata Vada Roll, a portion of Fries and a Pepsi. (880 Calories)",
+                "imageId": "ecwhtkfygbqnavi9w6wi",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 30900,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "92826987",
+                        "groupName": "Combo Items",
+                        "choices": [
+                            {
+                                "id": "89779053",
+                                "name": "Combo Fries",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779054",
+                                "name": "Pepsi",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 2,
+                        "maxFreeAddons": -1,
+                        "minAddons": 2
+                    },
+                    {
+                        "groupId": "92826988",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "51589831",
+                "name": "Bhuna Chicken Roll Combo",
+                "category": "Kaati Zone Combo",
+                "description": "Serves 1 | A delicious combo of one Bhuna Chicken Roll, a portion of Fries and a Pepsi. (830 Calories)",
+                "imageId": "r7da64pqdbe6wfovfaom",
+                "inStock": 1,
+                "price": 34900,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "92827009",
+                        "groupName": "Combo Items",
+                        "choices": [
+                            {
+                                "id": "89779053",
+                                "name": "Combo Fries",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779054",
+                                "name": "Pepsi",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 2,
+                        "maxFreeAddons": -1,
+                        "minAddons": 2
+                    },
+                    {
+                        "groupId": "92827010",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "1.2",
+                        "ratingCount": "4 ratings",
+                        "ratingCountV2": "4"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "51524260",
+                "name": "Chicken Shami Roll Combo",
+                "category": "Kaati Zone Combo",
+                "description": "Serves 1 | A delicious combo of one Chicken Shami Roll, a portion of Fries and a Pepsi. (920 Calories)",
+                "imageId": "rf0darolipvev8tfbd6q",
+                "inStock": 1,
+                "price": 33900,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "92827041",
+                        "groupName": "Combo Items",
+                        "choices": [
+                            {
+                                "id": "89779053",
+                                "name": "Combo Fries",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779054",
+                                "name": "Pepsi",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 2,
+                        "maxFreeAddons": -1,
+                        "minAddons": 2
+                    },
+                    {
+                        "groupId": "92827043",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "51524259",
+                "name": "Chicken Tikka Roll Combo",
+                "category": "Kaati Zone Combo",
+                "description": "Serves 1 | A delicious combo of one Chicken Tikka Roll, a portion of Fries and a Pepsi. (850 Calories)",
+                "imageId": "pewcdaeadx66e9hnquz5",
+                "inStock": 1,
+                "price": 36900,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "92827091",
+                        "groupName": "Combo Items",
+                        "choices": [
+                            {
+                                "id": "89779053",
+                                "name": "Combo Fries",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779054",
+                                "name": "Pepsi",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 2,
+                        "maxFreeAddons": -1,
+                        "minAddons": 2
+                    },
+                    {
+                        "groupId": "92827092",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "3.0",
+                        "ratingCount": "4 ratings",
+                        "ratingCountV2": "4"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "52009601",
+                "name": "Chilli Paneer Roll Combo",
+                "category": "Kaati Zone Combo",
+                "description": "Serves 1 | A delicious combo of one Chilli Paneer Roll, a portion of Fries and a Pepsi. (830 Calories)",
+                "imageId": "krtxp2amwnndvleawexb",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 36900,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "92827118",
+                        "groupName": "Combo Items",
+                        "choices": [
+                            {
+                                "id": "89779053",
+                                "name": "Combo Fries",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779054",
+                                "name": "Pepsi",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 2,
+                        "maxFreeAddons": -1,
+                        "minAddons": 2
+                    },
+                    {
+                        "groupId": "92827120",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {
+                        "rating": "3.3",
+                        "ratingCount": "3 ratings",
+                        "ratingCountV2": "3"
+                    }
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "62880353",
+                "name": "Egg & Cheese Roll Combo",
+                "category": "Kaati Zone Combo",
+                "description": "Serves 1 | A delicious combo of one Egg & Cheese Roll, a full portion of Fries and a Pepsi. (890 Calories)",
+                "imageId": "nyuji2wroz5pcqktnj5d",
+                "inStock": 1,
+                "price": 32900,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "92827153",
+                        "groupName": "Combo Items",
+                        "choices": [
+                            {
+                                "id": "89779053",
+                                "name": "Combo Fries",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779054",
+                                "name": "Pepsi",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 2,
+                        "maxFreeAddons": -1,
+                        "minAddons": 2
+                    },
+                    {
+                        "groupId": "92827154",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "52009616",
+                "name": "Mixed Veg Roll Combo",
+                "category": "Kaati Zone Combo",
+                "description": "Serves 1 | A delicious combo of one Mixed Veg Roll, a portion of Fries and a Pepsi. (810 Calories)",
+                "imageId": "e6liiyokwhxmzmvbkgba",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 32900,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "92827177",
+                        "groupName": "Combo Items",
+                        "choices": [
+                            {
+                                "id": "89779053",
+                                "name": "Combo Fries",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779054",
+                                "name": "Pepsi",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 2,
+                        "maxFreeAddons": -1,
+                        "minAddons": 2
+                    },
+                    {
+                        "groupId": "92827178",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    },
+    {
+        "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+            "info": {
+                "id": "52009622",
+                "name": "Paneer Tikka Roll Combo",
+                "category": "Kaati Zone Combo",
+                "description": "Serves 1 | A delicious combo of one Paneer Tikka Roll, a portion of Fries and a Pepsi. (820 Calories)",
+                "imageId": "pvzjww5lg2zkubs51csg",
+                "inStock": 1,
+                "isVeg": 1,
+                "price": 36900,
+                "variants": {},
+                "variantsV2": {},
+                "addons": [
+                    {
+                        "groupId": "92827196",
+                        "groupName": "Combo Items",
+                        "choices": [
+                            {
+                                "id": "89779053",
+                                "name": "Combo Fries",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779054",
+                                "name": "Pepsi",
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 2,
+                        "maxFreeAddons": -1,
+                        "minAddons": 2
+                    },
+                    {
+                        "groupId": "92827197",
+                        "groupName": "Desserts [Save 20%]",
+                        "choices": [
+                            {
+                                "id": "89779040",
+                                "name": "Choco Lava Cake",
+                                "price": 6900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779041",
+                                "name": "Walnut Brownie",
+                                "price": 7900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779042",
+                                "name": "Red Velvet Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            },
+                            {
+                                "id": "89779043",
+                                "name": "Chocolate Truffle Jar Cake Medium",
+                                "price": 9900,
+                                "inStock": 1,
+                                "isVeg": 1,
+                                "isEnabled": 1
+                            }
+                        ],
+                        "maxAddons": 4,
+                        "maxFreeAddons": -1
+                    }
+                ],
+                "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                },
+                "ribbon": {},
+                "showImage": true,
+                "offerTags": [
+                    {
+                        "title": "40% OFF",
+                        "subTitle": "USE SPECIALS",
+                        "textColor": "#DB6742",
+                        "backgroundColor": "#FAE8E3"
+                    }
+                ],
+                "itemBadge": {},
+                "badgesV2": {},
+                "ratings": {
+                    "aggregatedRating": {}
+                }
+            },
+            "analytics": {},
+            "hideRestaurantDetails": true
+        }
+    }
+]

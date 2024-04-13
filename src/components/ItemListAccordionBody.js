@@ -20,6 +20,7 @@ export const ItemListAccordionBody = ({ items, cart }) => {
     <div >
       {items.map((item) => (
         <div
+          data-testid="items"
           key={item.card.info.id}
           className="p-2 m-2 border-b-4 text-left flex justify-between"
         >
@@ -37,7 +38,7 @@ export const ItemListAccordionBody = ({ items, cart }) => {
 
           <div className="w-3/12 ">
             <div className="absolute">
-              <button onClick={()=>handleAdd(item)} className="px-2 my-4 bg-green-700  h-10 w-22 rounded-lg shadow-lg font-bold text-white hover:bg-green-900 transition-transform duration-100 transform hover:scale-110">
+              <button data-testid="cart-test" onClick={()=>handleAdd(item)} className="px-2 my-4 bg-green-700  h-10 w-22 rounded-lg shadow-lg font-bold text-white hover:bg-green-900 transition-transform duration-100 transform hover:scale-110">
                 Add +
               </button>
             {cart && <button onClick={()=>remove(item)} className="px-2 my-4 bg-red-700  h-10 w-22 rounded-lg shadow-lg font-bold text-white hover:bg-red-900 transition-transform duration-100 transform hover:scale-110">

@@ -1,5 +1,5 @@
 import { RestaurantCard, withPromoted } from "./RestaurantCard";
-import { API, resObj } from "../utils/constants";
+import { API } from "../utils/constants";
 import { useEffect, useState } from "react";
 import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
@@ -9,7 +9,7 @@ export const Body = () => {
 
     const [listRestaurants, setListRestaurants] = useState([])
 
-    const RestaurantCardPromoted = withPromoted(RestaurantCard);
+   const RestaurantCardPromoted = withPromoted(RestaurantCard);
 
     useEffect(()=>{
         fetchData();
@@ -21,8 +21,7 @@ export const Body = () => {
     const fetchData = async () => {
         const data = await fetch(API);
         const json = await data.json();
-        setListRestaurants(json?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants)
-        console.log(json)
+        setListRestaurants(json?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle?.restaurants)
     }
 
 
@@ -34,9 +33,9 @@ export const Body = () => {
 
    
 
-    if(listRestaurants.length  === 0){
-        return <Shimmer/>     
-    }
+    // if(listRestaurants.length  === 0){
+    //     return <Shimmer/>     
+    // }
 
 
 
